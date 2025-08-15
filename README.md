@@ -15,7 +15,7 @@ This repository serves as a **public journal** of my growth. I’ll be sharing:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [`first-project`]([[./projects/first-project](https://github.com/seandevlog/inventory-tracker/tree/main)](https://github.com/seandevlog/inventory-tracker.git)) | Inventory Tracker using the MERN stack | 🟢 In Progress |
+| [`first-project`]((https://github.com/seandevlog/inventory-tracker.git)) | Inventory Tracker using the MERN stack | 🟢 In Progress |
 
 > Each project folder contains its own README, wireframes, devlogs, and features.
 
