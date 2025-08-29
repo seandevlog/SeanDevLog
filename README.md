@@ -1,7 +1,7 @@
 # SeanDevLog 🧠💻
 
 Welcome to my devlog!  
-I'm **Sean**, a final-semester programming student documenting my journey to becoming a professional software developer.
+I'm **Sean**, a recently graduated computer programmer documenting my journey to becoming a professional software developer.
 
 This repository serves as a **public journal** of my growth. I’ll be sharing:
 - Projects I build (from simple to advanced)
