@@ -32,7 +32,7 @@ This repository serves as a **public journal** of my growth. I’ll be sharing:
 ## 🎥 Devlog Videos (YouTube)
 
 📺 [SeanDevLog on YouTube](https://youtube.com/@SeanDevLog)  
-> I share my journey visually — explaining what I’m working on, how I troubleshoot, and what I’m learning.
+> I share my journey visually, explaining what I’m working on, how I troubleshoot, and what I’m learning. If you cannot find what you're looking for, go to my project's repo and you'll find the link there.
 
 ---
 
