@@ -1,4 +1,4 @@
-# SeanDevLog 🧠💻
+# Sean 🧠💻
 
 Welcome to my devlog!  
 I'm **Sean**, a recently graduated computer programmer documenting my journey to becoming a professional software developer.
