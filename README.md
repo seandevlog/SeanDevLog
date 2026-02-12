@@ -1,4 +1,4 @@
-# Sean 🧠💻 — Devlog & Portfolio
+# Sean — Devlog & Portfolio
 
 ![Status](https://img.shields.io/badge/Status-Active%20Devlog-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-blue)
