@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Devlog-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-blue)
 ![Tech](https://img.shields.io/badge/Stack-MERN-yellow)
-![Learning](https://img.shields.io/badge/Learning-Testing%20%26%20Spring%20Boot-purple)
+![Learning](https://img.shields.io/badge/Learning-Testing%20%26%20Typescript-purple)
 
 Hey! I’m **Sean**, a recently graduated computer programmer documenting my journey as I grow into a professional software developer.
 
