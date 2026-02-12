@@ -31,7 +31,7 @@ A full-stack inventory tracking application built using the **MERN stack**.
 
 **Core Features (Completed):**
 - Inventory item tracking (CRUD)
-- Categories / organization
+- JWT Auth
 - Backend API + database integration
 - Clean UI for managing stock
 
