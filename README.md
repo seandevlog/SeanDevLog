@@ -20,7 +20,7 @@ This repo is my **public devlog + portfolio hub**, where I track my progress, sh
 
 - 🎥 **YouTube Devlog:** [SeanDevLog](https://youtube.com/@SeanDevLog)
 - 🧑‍💻 **GitHub:** [github.com/SeanDevLog](https://github.com/SeanDevLog)
-- 📧 **Email:** [seandevlog@gmail.com](mailto:seanarnedodelossantos@gmail.com)
+- 📧 **Email:** [seanarnedodelossantos@gmail.com](mailto:seanarnedodelossantos@gmail.com)
 
 ---
 
