@@ -18,10 +18,6 @@ This repo is my **public devlog + portfolio hub**, where I track my progress, sh
   ![Last Commit](https://img.shields.io/github/last-commit/seandevlog/inventory-tracker)
   ![Repo Size](https://img.shields.io/github/repo-size/seandevlog/inventory-tracker)
 
-- 🏋️ **Workout Apparel Website (Express + EJS)**  
-  📌 Live Demo: https://web322-2251-sdelos-santos1-five.vercel.app/  
-  📌 Repo: https://github.com/seandls/web322-2251--sdelos-santos1-.git
-
 - 🎥 **YouTube Devlog:** [SeanDevLog](https://youtube.com/@SeanDevLog)
 - 🧑‍💻 **GitHub:** [github.com/SeanDevLog](https://github.com/SeanDevLog)
 - 📧 **Email:** [seanarnedodelossantos@gmail.com](mailto:seanarnedodelossantos@gmail.com)
