@@ -1,56 +1,111 @@
-# Sean 🧠💻
+# Sean 🧠💻 — Devlog & Portfolio
 
-Welcome to my devlog!  
-I'm **Sean**, a recently graduated computer programmer documenting my journey to becoming a professional software developer.
+![Status](https://img.shields.io/badge/Status-Active%20Devlog-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-blue)
+![Tech](https://img.shields.io/badge/Stack-MERN-yellow)
+![Learning](https://img.shields.io/badge/Learning-REST%20APIs%20%26%20Clean%20Code-purple)
 
-This repository serves as a **public journal** of my growth. I’ll be sharing:
-- Projects I build (from simple to advanced)
-- Lessons I learn
-- Code experiments, breakthroughs, and challenges
-- Honest reflections on my progress
+Hey! I’m **Sean**, a recently graduated computer programmer documenting my journey as I grow into a professional software developer.
+
+This repo is my **public devlog + portfolio hub**, where I track my progress, share projects, and document what I’m learning along the way.
+
+---
+
+## 🔗 Quick Links
+
+- ⭐ **Featured Project:** Inventory Tracker (MERN)  
+  📌 [Live Demo](https://inventory-tracker-mu-roan.vercel.app) • [Repo](https://github.com/seandevlog/inventory-tracker.git)  
+  ![Last Commit](https://img.shields.io/github/last-commit/seandevlog/inventory-tracker)
+  ![Repo Size](https://img.shields.io/github/repo-size/seandevlog/inventory-tracker)
+
+- 🎥 **YouTube Devlog:** [SeanDevLog](https://youtube.com/@SeanDevLog)
+- 🧑‍💻 **GitHub:** [github.com/SeanDevLog](https://github.com/SeanDevLog)
+- 📧 **Email:** [seandevlog@gmail.com](mailto:seandevlog@gmail.com)
+
+---
+
+## ⭐ Featured Project
+
+### Inventory Tracker (MERN Stack) — In Progress 🟢  
+A full-stack inventory tracking application built using the **MERN stack**.
+
+**What I'm building:**
+- Inventory item tracking (CRUD)
+- Categories / organization
+- Backend API + database integration
+- Clean UI for managing stock
+
+📌 Repo: [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git)
+
+> Each project repo includes its own README, devlog notes, wireframes, and feature roadmap.
 
 ---
 
 ## 🔨 Projects
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| [`first-project`](https://github.com/seandevlog/inventory-tracker.git) | Inventory Tracker using the MERN stack | 🟢 In Progress |
-
-> Each project folder contains its own README, wireframes, devlogs, and features.
+|--------|-------------|--------|
+| [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git) | Full-stack inventory tracker using MERN | 🟢 In Progress |
 
 ---
 
-## 🧰 Tech I'm Working With
+## 🧰 Tech Stack & Tools
 
-- **Languages**: Python, Java, JavaScript, HTML, CSS  
-- **Tools**: VS Code, Git, GitHub  
-- **Currently Learning**: Backend development, REST APIs, clean code practices
+**Languages**
+- Python
+- Java
+- JavaScript
+- HTML / CSS
+
+**Tools**
+- VS Code
+- Git + GitHub
+
+**Currently Learning**
+- REST APIs & backend architecture  
+- Clean code practices  
+- Full-stack development workflows  
+- Deployment & real-world project structure  
+
+---
+
+## 📓 Devlog Purpose
+
+This repo helps me:
+- Stay accountable and consistent
+- Practice writing clear documentation
+- Track my growth and lessons learned
+- Build a transparent portfolio for employers and collaborators
+- Improve as a developer through real projects
 
 ---
 
 ## 🎥 Devlog Videos (YouTube)
 
-📺 [SeanDevLog on YouTube](https://youtube.com/@SeanDevLog)  
-> I share my journey visually, explaining what I’m working on, how I troubleshoot, and what I’m learning. If you cannot find what you're looking for, go to my project's repo and you'll find the link there.
+📺 [SeanDevLog on YouTube](https://youtube.com/@SeanDevLog)
+
+I post devlog videos where I walk through:
+- What I’m building
+- How I troubleshoot problems
+- What I’m learning week to week
 
 ---
 
-## 🧭 Purpose of This Repo
+## 🗺️ Roadmap (Next Steps)
 
-This repo helps me:
-- Practice version control and documentation
-- Stay accountable to my learning path
-- Create a transparent portfolio for future employers and collaborators
-- Build something meaningful, even from small projects
+- [ ] Add more projects as I build them  
+- [ ] Improve documentation + screenshots  
+- [ ] Deploy full-stack apps  
+- [ ] Add testing + best practices  
+- [ ] Continue growing into a professional developer  
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [seandevlog@gmail.com](mailto:seandevlog@gmail.com)  
+📧 Email: [seanarnedodelossantos@gmail.com](mailto:seanarnedodelossantos@gmail.com)  
 🔗 GitHub: [github.com/SeanDevLog](https://github.com/SeanDevLog)
 
 ---
 
-Thanks for checking out my journey. Feedback and connections are always welcome!
+Thanks for checking out my journey, feedback and connections are always welcome!
