@@ -71,11 +71,13 @@ A full-stack inventory tracking application built using the **MERN stack**.
 - Git + GitHub
 
 **Currently Learning**
+- Testing (unit + integration)  
+- Typescript
+- Spring Boot  
 - REST APIs & backend architecture  
-- Clean code practices  
-- Full-stack development workflows  
-- Deployment & real-world project structure  
-
+- Clean code + real-world project structure  
+- Deployment workflows
+  
 ---
 
 ## 📓 Devlog Purpose
