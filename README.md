@@ -1,4 +1,4 @@
-# Sean — Devlog & Portfolio
+# Sean - Devlog & Portfolio
 
 ![Status](https://img.shields.io/badge/Status-Active%20Devlog-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-blue)
@@ -26,18 +26,25 @@ This repo is my **public devlog + portfolio hub**, where I track my progress, sh
 
 ## ⭐ Featured Project
 
-### Inventory Tracker (MERN Stack) — In Progress 🟢  
+### Inventory Tracker (MERN Stack) Complete ✅ (Actively Expanding 🚀)  
 A full-stack inventory tracking application built using the **MERN stack**.
 
-**What I'm building:**
+**Core Features (Completed):**
 - Inventory item tracking (CRUD)
 - Categories / organization
 - Backend API + database integration
 - Clean UI for managing stock
 
+**Currently Expanding With:**
+- New features & improvements
+- Better UI/UX
+- Testing + best practices
+- Deployment updates
+
+📌 Live Demo: [Inventory Tracker](https://inventory-tracker-mu-roan.vercel.app)  
 📌 Repo: [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git)
 
-> Each project repo includes its own README, devlog notes, wireframes, and feature roadmap.
+> The project repo includes its own README, devlog notes, wireframes, and feature roadmap.
 
 ---
 
@@ -45,17 +52,18 @@ A full-stack inventory tracking application built using the **MERN stack**.
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git) | Full-stack inventory tracker using MERN | 🟢 In Progress |
+| [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git) | Full-stack inventory tracker using MERN | ✅ Complete (Expanding 🚀) |
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 **Languages**
-- Python
-- Java
 - JavaScript
 - HTML / CSS
+- Python
+- Java
+- C/C++
 
 **Tools**
 - VS Code
@@ -88,6 +96,8 @@ I post devlog videos where I walk through:
 - What I’m building
 - How I troubleshoot problems
 - What I’m learning week to week
+
+> 🔒 Some project devlog playlists are **unlisted**, you can find the direct playlist link inside each project’s repo.
 
 ---
 
