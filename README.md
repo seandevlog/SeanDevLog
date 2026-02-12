@@ -50,8 +50,6 @@ A full-stack inventory tracking application built using the **MERN stack**.
 
 ## 🔨 Projects
 
-## 🔨 Projects
-
 | Project | Description | Status |
 |--------|-------------|--------|
 | [Inventory Tracker](https://github.com/seandevlog/inventory-tracker.git) | Full-stack inventory tracker using MERN | ✅ Complete (Expanding 🚀) |
