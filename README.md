@@ -9,7 +9,7 @@ Hey, I'm **Sean**, a Full-Stack Developer with a Computer Programming diploma an
 
 I enjoy turning ideas into working software, from designing REST APIs and managing databases to creating responsive interfaces. I'm continuously learning through personal projects, client work, and collaborative development.
 
-**Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)  
+**Portfolio:** [Visit My Portfolio](https://seandelossantos.com/)  
 **GitHub:** [SeanDevLog](https://github.com/SeanDevLog)  
 **LinkedIn:** [Sean Delos Santos](https://www.linkedin.com/in/seanarnedodelossantos)  
 **YouTube:** [SeanDevLog](https://youtube.com/@SeanDevLog)
@@ -21,7 +21,7 @@ I enjoy turning ideas into working software, from designing REST APIs and managi
 | Project | Tech Stack | Status |
 |---|---|---|
 | [AstroPulse](https://github.com/SpaceGo6/spacego) | JavaScript, Node.js, Express.js, REST APIs | Hackathon Prototype |
-| Personal Portfolio | Next.js, TypeScript, React, Tailwind CSS | Actively Improving |
+| [Personal Portfolio](https://github.com/seandevlog/my-portfolio.git) | Next.js, TypeScript, React, Tailwind CSS | Actively Improving |
 | [Data Table](https://github.com/seandevlog/inventory-tracker) | React, Node.js, Express, MongoDB, JWT, Cloudinary | Complete, Expanding |
 | Municipality Website | Next.js, TypeScript, Spring Boot, PostgreSQL, Amazon S3 | Complete, Client Handoff Pending |
 | [Workout Apparel Store](https://github.com/seandevlog/workout-apparel-store) | Express, EJS, MongoDB, Mailgun | Complete |
