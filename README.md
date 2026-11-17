@@ -22,7 +22,7 @@ I enjoy turning ideas into working software, from designing REST APIs and managi
 |---|---|---|
 | [AstroPulse](https://github.com/SpaceGo6/spacego) | JavaScript, Node.js, Express.js, REST APIs | Hackathon Prototype |
 | Personal Portfolio | Next.js, TypeScript, React, Tailwind CSS | Actively Improving |
-| [Inventory Tracker](https://github.com/seandevlog/inventory-tracker) | React, Node.js, Express, MongoDB, JWT, Cloudinary | Complete, Expanding |
+| [Data Table](https://github.com/seandevlog/inventory-tracker) | React, Node.js, Express, MongoDB, JWT, Cloudinary | Complete, Expanding |
 | Municipality Website | Next.js, TypeScript, Spring Boot, PostgreSQL, Amazon S3 | Complete, Client Handoff Pending |
 | [Workout Apparel Store](https://github.com/seandevlog/workout-apparel-store) | Express, EJS, MongoDB, Mailgun | Complete |
 
